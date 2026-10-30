@@ -1,0 +1,8 @@
+id,filename,path,type,extension,size_bytes,source_url
+1,album.png,downloads/images/album.png,images,png,4071509,http://127.0.0.1:8000/media/album.png
+2,bip.wav,downloads/audio/bip.wav,audio,wav,1081212,http://127.0.0.1:8000/media/bip.wav
+3,favicon.PNG,downloads/images/favicon.PNG,images,png,944584,http://127.0.0.1:8000/media/favicon.PNG
+4,icone1.png,downloads/images/icone1.png,images,png,3654774,http://127.0.0.1:8000/media/icone1.png
+5,icone2.png,downloads/images/icone2.png,images,png,2696718,http://127.0.0.1:8000/media/icone2.png
+6,icone3.png,downloads/images/icone3.png,images,png,1490584,http://127.0.0.1:8000/media/icone3.png
+7,logo.png,downloads/images/logo.png,images,png,1168,http://127.0.0.1:8000/media/logo.png

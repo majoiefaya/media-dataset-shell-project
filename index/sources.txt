@@ -1,0 +1,7 @@
+images/album.png;http://127.0.0.1:8000/media/album.png
+audio/bip.wav;http://127.0.0.1:8000/media/bip.wav
+images/favicon.PNG;http://127.0.0.1:8000/media/favicon.PNG
+images/icone1.png;http://127.0.0.1:8000/media/icone1.png
+images/icone2.png;http://127.0.0.1:8000/media/icone2.png
+images/icone3.png;http://127.0.0.1:8000/media/icone3.png
+images/logo.png;http://127.0.0.1:8000/media/logo.png

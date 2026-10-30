@@ -1,0 +1,17 @@
+RAPPORT DU DATASET - 2026-10-30 08:41:04
+Paramètres : MAX_FILES=20 ratios=70/15/15
+
+Fichiers par type :
+  images : 6
+  videos : 0
+  audio : 1
+  others : 0
+Total : 7 fichiers
+
+Répartition :
+  train : 5
+  val : 1
+  test : 1
+
+Doublons ignorés : 6
+Erreurs : 21

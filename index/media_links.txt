@@ -1,0 +1,10 @@
+http://127.0.0.1:8000/media/absente.png
+http://127.0.0.1:8000/media/album.png
+http://127.0.0.1:8000/media/bip.wav
+http://127.0.0.1:8000/media/copie_album.png
+http://127.0.0.1:8000/media/faux.jpg
+http://127.0.0.1:8000/media/favicon.PNG
+http://127.0.0.1:8000/media/icone1.png
+http://127.0.0.1:8000/media/icone2.png
+http://127.0.0.1:8000/media/icone3.png
+http://127.0.0.1:8000/media/logo.png

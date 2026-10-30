@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "filename": "album.png",
+    "path": "downloads/images/album.png",
+    "type": "images",
+    "extension": "png",
+    "size_bytes": 4071509,
+    "source_url": "http://127.0.0.1:8000/media/album.png"
+  },
+  {
+    "id": 2,
+    "filename": "bip.wav",
+    "path": "downloads/audio/bip.wav",
+    "type": "audio",
+    "extension": "wav",
+    "size_bytes": 1081212,
+    "source_url": "http://127.0.0.1:8000/media/bip.wav"
+  },
+  {
+    "id": 3,
+    "filename": "favicon.PNG",
+    "path": "downloads/images/favicon.PNG",
+    "type": "images",
+    "extension": "png",
+    "size_bytes": 944584,
+    "source_url": "http://127.0.0.1:8000/media/favicon.PNG"
+  },
+  {
+    "id": 4,
+    "filename": "icone1.png",
+    "path": "downloads/images/icone1.png",
+    "type": "images",
+    "extension": "png",
+    "size_bytes": 3654774,
+    "source_url": "http://127.0.0.1:8000/media/icone1.png"
+  },
+  {
+    "id": 5,
+    "filename": "icone2.png",
+    "path": "downloads/images/icone2.png",
+    "type": "images",
+    "extension": "png",
+    "size_bytes": 2696718,
+    "source_url": "http://127.0.0.1:8000/media/icone2.png"
+  },
+  {
+    "id": 6,
+    "filename": "icone3.png",
+    "path": "downloads/images/icone3.png",
+    "type": "images",
+    "extension": "png",
+    "size_bytes": 1490584,
+    "source_url": "http://127.0.0.1:8000/media/icone3.png"
+  },
+  {
+    "id": 7,
+    "filename": "logo.png",
+    "path": "downloads/images/logo.png",
+    "type": "images",
+    "extension": "png",
+    "size_bytes": 1168,
+    "source_url": "http://127.0.0.1:8000/media/logo.png"
+  }
+]

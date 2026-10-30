@@ -1,0 +1,7 @@
+downloads/images/logo.png
+downloads/images/album.png
+downloads/audio/bip.wav
+downloads/images/favicon.PNG
+downloads/images/icone1.png
+downloads/images/icone2.png
+downloads/images/icone3.png

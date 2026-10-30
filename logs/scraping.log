@@ -1,0 +1,59 @@
+[2026-10-30 06:50:02] INFO Page téléchargée : page_001.html
+[2026-10-30 06:50:03] INFO Page téléchargée : page_002.html
+[2026-10-30 06:50:04] ERROR Échec du téléchargement : http://127.0.0.1:8000/page_absente.html
+[2026-10-30 06:50:05] INFO 10 liens multimédia extraits
+[2026-10-30 06:50:05] ERROR Téléchargement impossible : http://127.0.0.1:8000/media/absente.png
+[2026-10-30 06:50:06] INFO Doublon ignoré : copie_album.png
+[2026-10-30 06:50:06] ERROR Type refusé pour faux.jpg : text/plain
+[2026-10-30 06:50:06] INFO 7 fichiers téléchargés
+[2026-10-30 06:50:06] INFO Index CSV créé avec 7 fichiers
+[2026-10-30 06:50:06] INFO Dataset préparé : train=5 val=1 test=1
+[2026-10-30 07:41:52] INFO Page téléchargée : page_001.html
+[2026-10-30 07:41:53] INFO Page téléchargée : page_002.html
+[2026-10-30 07:41:54] ERROR Échec du téléchargement : http://127.0.0.1:8000/page_absente.html
+[2026-10-30 07:41:55] INFO 10 liens multimédia extraits
+[2026-10-30 07:41:55] ERROR Téléchargement impossible : http://127.0.0.1:8000/media/absente.png
+[2026-10-30 07:41:56] INFO Doublon ignoré : copie_album.png
+[2026-10-30 07:41:56] ERROR Type refusé pour faux.jpg : text/plain
+[2026-10-30 07:41:56] INFO 7 fichiers téléchargés
+[2026-10-30 07:41:56] INFO Index CSV créé avec 7 fichiers
+[2026-10-30 07:41:56] INFO Dataset préparé : train=5 val=1 test=1
+[2026-10-30 07:56:54] ERROR Téléchargement impossible : http://127.0.0.1:8000/media/absente.png
+[2026-10-30 07:56:55] INFO Doublon ignoré : copie_album.png
+[2026-10-30 07:56:55] ERROR Type refusé pour faux.jpg : text/plain
+[2026-10-30 07:56:55] INFO 3 fichiers téléchargés
+[2026-10-30 08:03:04] ERROR Échec du téléchargement : http://127.0.0.1:8000/page1.html
+[2026-10-30 08:03:05] ERROR Échec du téléchargement : http://127.0.0.1:8000/gallery.html
+[2026-10-30 08:03:06] ERROR Échec du téléchargement : http://127.0.0.1:8000/page_absente.html
+[2026-10-30 08:03:07] ERROR Aucun lien multimédia trouvé
+[2026-10-30 08:20:31] INFO Index CSV créé avec 3 fichiers
+[2026-10-30 08:32:24] INFO Page téléchargée : page_001.html
+[2026-10-30 08:32:25] INFO Page téléchargée : page_002.html
+[2026-10-30 08:32:26] ERROR Échec du téléchargement : http://127.0.0.1:8000/page_absente.html
+[2026-10-30 08:32:28] INFO 10 liens multimédia extraits
+[2026-10-30 08:32:28] ERROR Téléchargement impossible : http://127.0.0.1:8000/media/absente.png
+[2026-10-30 08:32:28] INFO Doublon ignoré : copie_album.png
+[2026-10-30 08:32:28] ERROR Type refusé pour faux.jpg : text/plain
+[2026-10-30 08:32:29] INFO 7 fichiers téléchargés
+[2026-10-30 08:32:29] INFO Index CSV créé avec 7 fichiers
+[2026-10-30 08:32:29] INFO Dataset préparé : train=5 val=1 test=1
+[2026-10-30 08:37:33] INFO Page téléchargée : page_001.html
+[2026-10-30 08:37:34] INFO Page téléchargée : page_002.html
+[2026-10-30 08:37:35] ERROR Échec du téléchargement : http://127.0.0.1:8000/page_absente.html
+[2026-10-30 08:37:37] INFO 10 liens multimédia extraits
+[2026-10-30 08:37:37] ERROR Téléchargement impossible : http://127.0.0.1:8000/media/absente.png
+[2026-10-30 08:37:37] INFO Doublon ignoré : copie_album.png
+[2026-10-30 08:37:37] ERROR Type refusé pour faux.jpg : text/plain
+[2026-10-30 08:37:38] INFO 7 fichiers téléchargés
+[2026-10-30 08:37:38] INFO Index CSV créé avec 7 fichiers
+[2026-10-30 08:37:38] INFO Dataset préparé : train=5 val=1 test=1
+[2026-10-30 08:40:59] INFO Page téléchargée : page_001.html
+[2026-10-30 08:41:00] INFO Page téléchargée : page_002.html
+[2026-10-30 08:41:02] ERROR Échec du téléchargement : http://127.0.0.1:8000/page_absente.html
+[2026-10-30 08:41:03] INFO 10 liens multimédia extraits
+[2026-10-30 08:41:03] ERROR Téléchargement impossible : http://127.0.0.1:8000/media/absente.png
+[2026-10-30 08:41:03] INFO Doublon ignoré : copie_album.png
+[2026-10-30 08:41:03] ERROR Type refusé pour faux.jpg : text/plain
+[2026-10-30 08:41:04] INFO 7 fichiers téléchargés
+[2026-10-30 08:41:04] INFO Index CSV créé avec 7 fichiers
+[2026-10-30 08:41:04] INFO Dataset préparé : train=5 val=1 test=1
